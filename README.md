@@ -1,5 +1,5 @@
 # customer-segmentation
 
-[customer-segmentation/segment_1.png]
-[customer-segmentation/segment_2.png]
-[customer-segmentation/segment_3.png]
+[https://github.com/n-e-e-l/customer-segmentation/blob/main/segment_2.png?raw=true]
+[https://github.com/n-e-e-l/customer-segmentation/blob/main/segment_2.png?raw=true]
+[https://github.com/n-e-e-l/customer-segmentation/blob/main/segment_2.png?raw=true]
